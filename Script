@@ -54,7 +54,7 @@ local function createOutline(parent, text, font, size, position, textColor, outl
 end
 
 -- Main Title Text
-local titleText = "Pet Simulator 99 Script by Mitzci0"
+local titleText = "Huge Hunter Script by reapex"
 local titleFont = Enum.Font.FredokaOne
 local titleSize = UDim2.new(0, 500, 0, 100)
 local titlePosition = UDim2.new(0.5, -250, 0.3, 0)
